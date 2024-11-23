@@ -1,3 +1,9 @@
+"""
+GROUP MEMEBERS 
+YAWE ARTHUR SHALOM  M23B23/016 
+NABASA ISAAC  M23B23/043 
+MWEBEMBEZI NICOLE  M23B23/026 
+"""
 
 import bisect # Used for maintaining the order of sorted lists
 from datetime import datetime, timedelta
